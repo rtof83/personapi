@@ -2,6 +2,8 @@
 
 ## Projeto | GFT Java & AWS Developer
 
-### [Referência](https://github.com/rpeleias/personapi_digital_innovation_one)
+### [link heroku](https://peopleapi-rtof-test.herokuapp.com/person)
+
+### [Referência: rpeleias/personapi_digital_innovation_one](https://github.com/rpeleias/personapi_digital_innovation_one)
 
 ![alt tag](https://hermes.digitalinnovation.one/site/images/logo-footer.png)
